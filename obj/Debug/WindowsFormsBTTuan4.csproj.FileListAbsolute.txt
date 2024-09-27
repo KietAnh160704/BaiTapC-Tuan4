@@ -1,0 +1,12 @@
+D:\C#\WindowsFormsBTTuan4\bin\Debug\WindowsFormsBTTuan4.exe.config
+D:\C#\WindowsFormsBTTuan4\bin\Debug\WindowsFormsBTTuan4.exe
+D:\C#\WindowsFormsBTTuan4\bin\Debug\WindowsFormsBTTuan4.pdb
+D:\C#\WindowsFormsBTTuan4\obj\Debug\WindowsFormsBTTuan4.csproj.AssemblyReference.cache
+D:\C#\WindowsFormsBTTuan4\obj\Debug\WindowsFormsBTTuan4.Form1.resources
+D:\C#\WindowsFormsBTTuan4\obj\Debug\WindowsFormsBTTuan4.Form2.resources
+D:\C#\WindowsFormsBTTuan4\obj\Debug\WindowsFormsBTTuan4.Properties.Resources.resources
+D:\C#\WindowsFormsBTTuan4\obj\Debug\WindowsFormsBTTuan4.csproj.GenerateResource.cache
+D:\C#\WindowsFormsBTTuan4\obj\Debug\WindowsFormsBTTuan4.csproj.CoreCompileInputs.cache
+D:\C#\WindowsFormsBTTuan4\obj\Debug\WindowsFormsBTTuan4.exe
+D:\C#\WindowsFormsBTTuan4\obj\Debug\WindowsFormsBTTuan4.pdb
+D:\C#\WindowsFormsBTTuan4\obj\Debug\WindowsFormsBTTuan4.Form3.resources
